@@ -215,7 +215,7 @@ nav a:visited:active {
 .hitimage {
   position: absolute;
   bottom: -400px;
-  left: 1000px;
+  left: 900px;
   overflow: hidden;
 }
 .leanimage {
