@@ -214,18 +214,18 @@ nav a:visited:active {
   }
 .hitimage {
   position: absolute;
-  bottom: -450px;
-  left: 1100px;
+  bottom: -400px;
+  left: 1000px;
   overflow: hidden;
 }
 .leanimage {
   position: absolute;
-  bottom: -450px;
-  left: 1100px;
+  bottom: -400px;
+  left: 1000px;
   overflow: hidden;
 }
 .htmlpic {
   position: absolute;
-  left: 1100px;
-  bottom: -700px;
+  left: 1000px;
+  bottom: -600px;
 }
