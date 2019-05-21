@@ -442,3 +442,13 @@ left: 895px;
   from {opacity: .4}
   to {opacity: 1}
 }
+@media only screen and (min-width: 80px) {
+  .roemer {
+    display: none;
+  }
+}
+@media only screen and (min-width: 1250px) {
+  .roemer {
+    display: flex;
+  }
+}
