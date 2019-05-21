@@ -293,6 +293,7 @@ left: 895px;
   justify-content: flex-end;
   right: 170px;
   bottom: 160px;
+  height: 160px;
 }
 
 .container {
