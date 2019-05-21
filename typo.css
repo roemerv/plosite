@@ -86,10 +86,10 @@ nav a:visited:active {
   background-color: #5D6063;
 }
 .herohome {
-  padding-top: 9em;
-  padding-bottom: 0.4em;
+  padding-top: 5em;
+  padding-bottom: 0em;
   background-color: #5D6063;
-
+  font-size: 30px;
 }
 
 .hero h1 {
