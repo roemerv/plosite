@@ -443,12 +443,12 @@ left: 895px;
   to {opacity: 1}
 }
 @media only screen and (min-width: 80px) {
-  .roemer {
+  .roemer img {
     display: none;
   }
 }
-@media only screen and (min-width: 1250px) {
-  .roemer {
+@media only screen and (min-width: 1275px) {
+  .roemer img {
     display: flex;
   }
 }
