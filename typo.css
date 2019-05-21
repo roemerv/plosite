@@ -452,3 +452,6 @@ left: 895px;
     display: flex;
   }
 }
+@-ms-viewport{
+  width: device-width;
+}
