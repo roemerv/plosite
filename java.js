@@ -26,3 +26,9 @@ function showSlides(n) {
   slides[slideIndex-1].style.display = "block";
   dots[slideIndex-1].className += " active";
 }
+function sampleFunction() {
+  var user = prompt("Enter your name, please", "");
+  if (user != null) {
+  var show = alert("welkom op de site " + user +"! fijn dat je de site bekijkt");
+}
+}
