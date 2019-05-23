@@ -27,7 +27,7 @@ function showSlides(n) {
   dots[slideIndex-1].className += " active";
 }
 function sampleFunction() {
-  var user = prompt("Enter your name, please", "");
+  var user = prompt("Vul hier je naam in.", "");
   if (user != null) {
   var show = alert("welkom op de site " + user +"! fijn dat je de site bekijkt");
 }
