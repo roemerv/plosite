@@ -219,7 +219,7 @@ nav a:visited:active {
     border-left: none;
   }
 }
-
+/* afbeeldingen lijst*/
 .hitimage {
   margin: -250px;
   display: flex;
@@ -297,13 +297,17 @@ left: 895px;
   bottom: 160px;
   height: 160px;
 }
-
+.roemer img {
+  border-width: 10px;
+  border-style: inset;
+}
+/* container voor flexbox*/
 .container {
   display: flex;
   justify-content: center;
   flex: auto;
 }
-
+/* tooltip style*/
 .tooltip {
   text-decoration: underline;
   position: relative;
