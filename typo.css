@@ -300,6 +300,7 @@ left: 895px;
 .roemer img {
   border-width: 10px;
   border-style: inset;
+  border-radius: 10px;
 }
 /* container voor flexbox*/
 .container {
