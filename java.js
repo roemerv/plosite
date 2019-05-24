@@ -28,7 +28,11 @@ function showSlides(n) {
 }
 function sampleFunction() {
   var user = prompt("Vul hier je naam in.", "");
-  if (user != null) {
+  if (user === null) {
+    var show = alert("pfff dan niet joh");
+  }
+  else {
   var show = alert("welkom op de site " + user +"! fijn dat je de site bekijkt");
+
 }
 }
