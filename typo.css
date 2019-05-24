@@ -287,7 +287,17 @@ left: 895px;
   display: flex;
   flex-direction: row;
   margin-left: 10px
-
+}
+.netflix34 {
+  display: flex;
+  flex-direction: row;
+  margin-top: 10px;
+  margin-left: 5px;
+}
+.netflix4 {
+  display: flex;
+  flex-direction: row;
+  margin-left: 10px  
 }
 .roemer {
   display: flex;
