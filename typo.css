@@ -312,6 +312,17 @@ left: 895px;
   border-style: inset;
   border-radius: 10px;
 }
+.bmy {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-around;
+  margin: 100px;
+}
+.bmyv2 {
+  display: flex;
+  margin-top: 50px;
+}
 /* container voor flexbox*/
 .container {
   display: flex;
