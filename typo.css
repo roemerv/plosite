@@ -93,7 +93,16 @@ nav a:visited:active {
   background-color: #5D6063;
   font-size: 30px;
 }
-
+.arvoohome {
+  padding-top: 5em;
+  padding-bottom: 0em;
+  background-color: #5D6063;
+  font-size: 30px;
+}
+.arvoohome h1 {
+  font-size: 50px;
+  padding-bottom: 30px;
+}
 .hero h1 {
   font-size: 50px;
 }
@@ -315,11 +324,16 @@ left: 895px;
 .arvoo {
   display: flex;
   position: relative;
-  justify-content: flex-end;
-  right: 130px;
-  bottom: 160px;
+  justify-content: center;
+  right: 0px;
+  bottom: 10px;
   height: 160px;
-} 
+}
+.arvoo img {
+  border-style: double;
+  border-width: 5px;
+  border-radius: 5px;
+}
 .bmy {
   display: flex;
   flex-direction: column;
