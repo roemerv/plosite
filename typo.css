@@ -312,6 +312,14 @@ left: 895px;
   border-style: inset;
   border-radius: 10px;
 }
+.arvoo {
+  display: flex;
+  position: relative;
+  justify-content: flex-end;
+  right: 170px;
+  bottom: 160px;
+  height: 160px;
+} 
 .bmy {
   display: flex;
   flex-direction: column;
