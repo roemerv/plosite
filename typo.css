@@ -312,8 +312,8 @@ left: 895px;
   display: flex;
   position: relative;
   justify-content: flex-end;
-  right: 210px;
-  bottom: 80px;
+  right: 160px;
+  bottom: 160px;
   height: 160px;
 }
 .roemer img {
